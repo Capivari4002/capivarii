@@ -7,7 +7,7 @@ let terceiro=parseInt (prompt('qual sua 3 nota'));
 function soma(numero1,numero2 ){return numero1+numero2;}
 console.log (soma(1,2));
 function areaQuadrado( lado ){return lado**2;}
-console.log (areaQuadrado(numero));
+console.log (areaQuadrado('numero'));
 let media=function(primero, segundo, terceiro){
     return (primeiro + segundo + terceiro)/3
 }
