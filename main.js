@@ -1,4 +1,4 @@
 alert('rafaela.31 e juliane.18')
-function soma(numero1 numero2 ){
+function soma(numero1,numero2 ){
     return numero1+numero2;
 }
