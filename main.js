@@ -12,4 +12,4 @@ let media=function(primero, segundo, terceiro){
     return (primeiro + segundo + terceiro)/3
 }
 
-document.withe(media(primeiro,segundo, terceiro))
+document.write(media(primeiro,segundo, terceiro))
