@@ -7,5 +7,5 @@ function areaQuadrado( lado )
 {return lado**2}
 console.log (areaQuadrado(numero));
 let media=function()
-return{;}
+{return ;}
 document write();
