@@ -11,5 +11,5 @@ console.log(areaQuadrado('numero'));
 let media=function (primero, segundo, terceiro){
     return (primeiro + segundo + terceiro)/3
 }
-r
+
 document.write(media(primeiro,segundo, terceiro))
