@@ -48,7 +48,7 @@ let i=0;
 while(i<estados.length){
     console.log(i);
     console.log(estados[i]),
-    i++,} for (let index = 0; index < estados.length; index++) {
+    i++,}for(let index = 0; index < estados.length; index++){
         console.log(index);
         console.log(estados[index]);
         
