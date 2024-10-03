@@ -41,12 +41,12 @@ let estados[
 'acre' ,
 'alagoas',
 'roraima' ,
-'amapa' ]
+'amapa' ];
 
-console
+
 let i=0;
-while(i<28) {
+while(i<28){
     console.log(i);
     console.log(estados[i]),
-    i=i+1
+    i=i+1;
 }
