@@ -14,7 +14,7 @@
 
 // document.write(media(primeiro,segundo, terceiro))
 
-let estados=[
+let estados[
 'São Paulo',
 'rio de janeiro',
 'rio grande do sul' ,
@@ -41,4 +41,12 @@ let estados=[
 'acre' ,
 'alagoas',
 'roraima' ,
-'amapa' ];
+'amapa' ]
+
+console
+let i=0;
+while(i<28) {
+    console.log(i);
+    console.log(estados[i]),
+    i=i+1
+}
