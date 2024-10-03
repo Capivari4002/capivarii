@@ -54,4 +54,4 @@ while(i<estados.length){
         console.log(estados[index]);
         
     }
-}
+
